@@ -1,12 +1,1541 @@
 [
   {
-    "category": "Test",
+    "category": "Hollywood gossip & Greek gossip",
     "questions": [
       {
         "id": 1,
-        "question": "Ποια είναι η μεγαλύτερη ήπειρος σε έκταση;",
-        "options": ["Αφρική", "Ευρώπη", "Ασία", "Βόρεια Αμερική"],
-        "answer": 2
+        "question": "Ποια σταρ του Hollywood χώρισε με τον Brad Pitt το 2005;",
+        "options": [
+          "Jennifer Lopez",
+          "Angelina Jolie",
+          "Jennifer Aniston",
+          "Sandra Bullock"
+        ],
+        "answer": 2,
+        "info": "Η Jennifer Aniston και ο Brad Pitt χώρισαν το 2005, γεγονός που προκάλεσε παγκόσμιο ενδιαφέρον."
+      },
+      {
+        "id": 2,
+        "question": "Ποια είναι η Ελληνίδα παρουσιάστρια που είχε σχέση με τον Ηλία Βρεττό;",
+        "options": [
+          "Κατερίνα Καινούργιου",
+          "Ελένη Μενεγάκη",
+          "Φαίη Σκορδά",
+          "Δούκισσα Νομικού"
+        ],
+        "answer": 0,
+        "info": "Η Κατερίνα Καινούργιου είχε παλαιότερα σχέση με τον τραγουδιστή Ηλία Βρεττό."
+      },
+      {
+        "id": 3,
+        "question": "Ποια τραγουδίστρια του Hollywood έγραψε το τραγούδι 'Thank U, Next' μετά από έναν διάσημο χωρισμό;",
+        "options": [
+          "Ariana Grande",
+          "Taylor Swift",
+          "Selena Gomez",
+          "Katy Perry"
+        ],
+        "answer": 0,
+        "info": "Η Ariana Grande κυκλοφόρησε το 'Thank U, Next' μετά τον χωρισμό της με τον Pete Davidson."
+      },
+      {
+        "id": 4,
+        "question": "Ποιος Έλληνας παρουσιαστής συνδέθηκε με τη Ζέτα Μακρυπούλια;",
+        "options": [
+          "Γρηγόρης Αρναούτογλου",
+          "Θέμος Αναστασιάδης",
+          "Μιχάλης Χατζηγιάννης",
+          "Νίκος Μουτσινάς"
+        ],
+        "answer": 2,
+        "info": "Η Ζέτα Μακρυπούλια και ο Μιχάλης Χατζηγιάννης ήταν ζευγάρι για αρκετά χρόνια."
+      },
+      {
+        "id": 5,
+        "question": "Με ποιον ηθοποιό είχε πολυσυζητημένη σχέση η Angelina Jolie;",
+        "options": [
+          "Leonardo DiCaprio",
+          "Tom Cruise",
+          "Johnny Depp",
+          "Billy Bob Thornton"
+        ],
+        "answer": 3,
+        "info": "Η Angelina Jolie είχε έναν έντονο γάμο με τον Billy Bob Thornton, που συζητήθηκε έντονα στα media."
+      },
+      {
+        "id": 6,
+        "question": "Ποια παρουσιάστρια είχε εντάσεις με την Τατιάνα Στεφανίδου στην ελληνική τηλεόραση;",
+        "options": [
+          "Ελεονώρα Μελέτη",
+          "Σταματίνα Τσιμτσιλή",
+          "Κατερίνα Καινούργιου",
+          "Μαρία Μπακοδήμου"
+        ],
+        "answer": 0,
+        "info": "Η Ελεονώρα Μελέτη είχε δημόσιες διαφωνίες με την Τατιάνα Στεφανίδου σε διάφορες περιπτώσεις."
+      },
+      {
+        "id": 7,
+        "question": "Ποια σταρ του Hollywood παντρεύτηκε τον Ben Affleck το 2022;",
+        "options": [
+          "Jennifer Lopez",
+          "Jennifer Aniston",
+          "Gal Gadot",
+          "Charlize Theron"
+        ],
+        "answer": 0,
+        "info": "Η Jennifer Lopez και ο Ben Affleck παντρεύτηκαν το 2022, μετά από επανασύνδεση."
+      },
+      {
+        "id": 8,
+        "question": "Ποια Ελληνίδα influencer έγινε γνωστή από τη συμμετοχή της στο 'My Style Rocks';",
+        "options": [
+          "Ιωάννα Τούνη",
+          "Ελένη Φουρέιρα",
+          "Βίκυ Καγιά",
+          "Άννα Πρέλεβιτς"
+        ],
+        "answer": 0,
+        "info": "Η Ιωάννα Τούνη απέκτησε μεγάλη δημοτικότητα από τη συμμετοχή της στο 'My Style Rocks'."
+      },
+      {
+        "id": 9,
+        "question": "Ποιος διάσημος τραγουδιστής είχε σχέση με την Selena Gomez και την Hailey Bieber;",
+        "options": [
+          "Zayn Malik",
+          "Justin Bieber",
+          "Shawn Mendes",
+          "The Weeknd"
+        ],
+        "answer": 1,
+        "info": "Ο Justin Bieber είχε σχέση με τη Selena Gomez πριν παντρευτεί τη Hailey Baldwin."
+      },
+      {
+        "id": 10,
+        "question": "Ποια γνωστή Ελληνίδα ηθοποιός είχε μακροχρόνια σχέση με τον Αλέξη Γεωργούλη;",
+        "options": [
+          "Νάντια Μπουλέ",
+          "Μαριάννα Τουμασάτου",
+          "Τζένη Θεωνά",
+          "Μαριάννα Πολυχρονίδη"
+        ],
+        "answer": 0,
+        "info": "Η Νάντια Μπουλέ είχε σχέση με τον Αλέξη Γεωργούλη στο παρελθόν."
+      },
+      {
+        "id": 11,
+        "question": "Ποια είναι η βασική ανταγωνίστρια της Taylor Swift στις απονομές μουσικών βραβείων;",
+        "options": ["Billie Eilish", "Selena Gomez", "Katy Perry", "Adele"],
+        "answer": 2,
+        "info": "Η Katy Perry και η Taylor Swift είχαν για χρόνια ένταση, η οποία έγινε αντικείμενο σχολιασμού στα media."
+      },
+      {
+        "id": 12,
+        "question": "Ποια Ελληνίδα παρουσιάστρια έχει χαρακτηριστεί 'βασίλισσα της μεσημεριανής ζώνης';",
+        "options": [
+          "Ελένη Μενεγάκη",
+          "Μαρία Μπακοδήμου",
+          "Τατιάνα Στεφανίδου",
+          "Σταματίνα Τσιμτσιλή"
+        ],
+        "answer": 0,
+        "info": "Η Ελένη Μενεγάκη θεωρείται μία από τις πιο επιτυχημένες παρουσιάστριες της μεσημεριανής τηλεόρασης στην Ελλάδα."
+      },
+      {
+        "id": 13,
+        "question": "Ποια ήταν η επίμαχη σχέση του Leonardo DiCaprio με νεότερες γυναίκες;",
+        "options": [
+          "Δεν σχολιάζεται",
+          "Πάντα άνω των 30",
+          "Κυρίως κάτω των 25",
+          "Μόνο με συναδέλφους του"
+        ],
+        "answer": 2,
+        "info": "Ο Leonardo DiCaprio έχει δεχτεί κριτική επειδή διατηρεί σχέσεις με γυναίκες κάτω των 25 ετών."
+      },
+      {
+        "id": 14,
+        "question": "Με ποια παντρεύτηκε ο Σάκης Ρουβάς;",
+        "options": [
+          "Τάμτα",
+          "Ζέτα Μακρυπούλια",
+          "Κάτια Ζυγούλη",
+          "Έλλη Κοκκίνου"
+        ],
+        "answer": 2,
+        "info": "Ο Σάκης Ρουβάς είναι παντρεμένος με την Κάτια Ζυγούλη, με την οποία έχει αποκτήσει τέσσερα παιδιά."
+      },
+      {
+        "id": 15,
+        "question": "Ποια ηθοποιός από το 'Friends' έχει απασχολήσει τα media με τις σχέσεις της;",
+        "options": [
+          "Lisa Kudrow",
+          "Courteney Cox",
+          "Jennifer Aniston",
+          "Maggie Wheeler"
+        ],
+        "answer": 2,
+        "info": "Η Jennifer Aniston ήταν παντρεμένη με τον Brad Pitt και αργότερα με τον Justin Theroux."
+      },
+      {
+        "id": 16,
+        "question": "Ποια Ελληνίδα τραγουδίστρια είχε σχέση με τον Γιώργο Μαζωνάκη;",
+        "options": [
+          "Έλενα Παπαρίζου",
+          "Καίτη Γαρμπή",
+          "Νατάσα Θεοδωρίδου",
+          "Άννα Βίσση"
+        ],
+        "answer": 2,
+        "info": "Η Νατάσα Θεοδωρίδου και ο Γιώργος Μαζωνάκης είχαν ρομαντική σχέση στο παρελθόν."
+      },
+      {
+        "id": 17,
+        "question": "Ποιο διάσημο ζευγάρι αποκαλούν 'Bennifer';",
+        "options": [
+          "Ben Affleck και Jennifer Garner",
+          "Ben Stiller και Jennifer Aniston",
+          "Ben Affleck και Jennifer Lopez",
+          "Brad Pitt και Jennifer Aniston"
+        ],
+        "answer": 2,
+        "info": "'Bennifer' είναι το παρατσούκλι για το ζευγάρι Ben Affleck και Jennifer Lopez."
+      },
+      {
+        "id": 18,
+        "question": "Ποια Ελληνίδα είχε σχέση με τον επιχειρηματία Λεό Πατίτσα;",
+        "options": [
+          "Μαριέττα Χρουσαλά",
+          "Ελεονώρα Μελέτη",
+          "Νάντια Μπουλέ",
+          "Ζέτα Μακρυπούλια"
+        ],
+        "answer": 0,
+        "info": "Η Μαριέττα Χρουσαλά είναι παντρεμένη με τον Λεό Πατίτσα."
+      },
+      {
+        "id": 19,
+        "question": "Ποια σταρ έγινε διάσημη από sex tape και αργότερα απέκτησε reality show;",
+        "options": [
+          "Paris Hilton",
+          "Kim Kardashian",
+          "Lindsay Lohan",
+          "Britney Spears"
+        ],
+        "answer": 1,
+        "info": "Η Kim Kardashian έγινε ευρύτερα γνωστή μετά τη διαρροή ενός sex tape και το reality 'Keeping Up with the Kardashians'."
+      },
+      {
+        "id": 20,
+        "question": "Ποια είναι η Ελληνίδα τραγουδίστρια που απασχολεί συχνά τα gossip με την προσωπική της ζωή και τη μητέρα της;",
+        "options": [
+          "Κατερίνα Στικούδη",
+          "Ειρήνη Παπαδοπούλου",
+          "Πάολα",
+          "Τάμτα"
+        ],
+        "answer": 2,
+        "info": "Η Πάολα συχνά απασχολεί τα media με δηλώσεις για τη μητέρα της και την προσωπική της ζωή."
+      },
+      {
+        "id": 21,
+        "question": "Ποια διάσημη pop star ξύρισε το κεφάλι της μπροστά στις κάμερες το 2007;",
+        "options": [
+          "Britney Spears",
+          "Christina Aguilera",
+          "Madonna",
+          "Rihanna"
+        ],
+        "answer": 0,
+        "info": "Η Britney Spears είχε μια δημόσια κατάρρευση το 2007 όταν ξύρισε το κεφάλι της μπροστά στους παπαράτσι."
+      },
+      {
+        "id": 22,
+        "question": "Ποιος Έλληνας τραγουδιστής έχει συνδεθεί με την Ιωάννα Τούνη;",
+        "options": [
+          "Πέτρος Ιακωβίδης",
+          "Σνικ",
+          "Νίκος Οικονομόπουλος",
+          "Light"
+        ],
+        "answer": 1,
+        "info": "Η Ιωάννα Τούνη είχε σχέση με τον ράπερ Snik, γεγονός που απασχόλησε έντονα τα gossip media."
+      },
+      {
+        "id": 23,
+        "question": "Ποια ηθοποιός του Hollywood ήταν για χρόνια παντρεμένη με τον Tom Cruise;",
+        "options": [
+          "Nicole Kidman",
+          "Katie Holmes",
+          "Penélope Cruz",
+          "Jennifer Garner"
+        ],
+        "answer": 0,
+        "info": "Η Nicole Kidman ήταν παντρεμένη με τον Tom Cruise για σχεδόν 11 χρόνια."
+      },
+      {
+        "id": 24,
+        "question": "Ποια Ελληνίδα ηθοποιός έχει συνδεθεί με τον Αλέξη Γεωργούλη και τον Σάκη Ρουβά;",
+        "options": [
+          "Ζέτα Δούκα",
+          "Ζέτα Μακρυπούλια",
+          "Μαρία Κορινθίου",
+          "Δήμητρα Ματσούκα"
+        ],
+        "answer": 1,
+        "info": "Η Ζέτα Μακρυπούλια έχει απασχολήσει τα media λόγω των σχέσεών της με γνωστούς άνδρες της showbiz."
+      },
+      {
+        "id": 25,
+        "question": "Ποια τραγουδίστρια του Hollywood έγινε μητέρα μέσω παρένθετης μητέρας το 2023;",
+        "options": ["Lady Gaga", "Nicki Minaj", "Rihanna", "Paris Hilton"],
+        "answer": 3,
+        "info": "Η Paris Hilton απέκτησε παιδί μέσω παρένθετης μητέρας το 2023."
+      },
+      {
+        "id": 26,
+        "question": "Ποιος Έλληνας παρουσιαστής είναι γνωστός για τις καυστικές του δηλώσεις και τα viral αποσπάσματα;",
+        "options": [
+          "Θέμος Αναστασιάδης",
+          "Γρηγόρης Αρναούτογλου",
+          "Νίκος Μουτσινάς",
+          "Γιώργος Λιάγκας"
+        ],
+        "answer": 2,
+        "info": "Ο Νίκος Μουτσινάς είναι γνωστός για το χιούμορ του και τις viral ατάκες στην εκπομπή του."
+      },
+      {
+        "id": 27,
+        "question": "Με ποια σταρ είχε σχέση ο Johnny Depp, προκαλώντας δικαστική διαμάχη;",
+        "options": [
+          "Amber Heard",
+          "Vanessa Paradis",
+          "Winona Ryder",
+          "Kate Moss"
+        ],
+        "answer": 0,
+        "info": "Ο Johnny Depp και η Amber Heard ενεπλάκησαν σε πολύκροτη δίκη για κακοποίηση και συκοφαντική δυσφήμιση."
+      },
+      {
+        "id": 28,
+        "question": "Ποια Ελληνίδα παρουσιάστρια αποχώρησε από τη μεσημεριανή ζώνη για οικογενειακούς λόγους;",
+        "options": [
+          "Φαίη Σκορδά",
+          "Νάνσυ Ζαμπέτογλου",
+          "Ελένη Τσολάκη",
+          "Ελένη Μενεγάκη"
+        ],
+        "answer": 3,
+        "info": "Η Ελένη Μενεγάκη είχε αποχωρήσει προσωρινά από την τηλεόραση για να αφοσιωθεί στην οικογένειά της."
+      },
+      {
+        "id": 29,
+        "question": "Ποια ηθοποιός του Hollywood έχει βραβευτεί με Όσκαρ και είχε σχέση με τον Harry Styles;",
+        "options": [
+          "Scarlett Johansson",
+          "Florence Pugh",
+          "Olivia Wilde",
+          "Margot Robbie"
+        ],
+        "answer": 2,
+        "info": "Η Olivia Wilde είχε σχέση με τον Harry Styles και έχει σκηνοθετήσει και βραβευθεί για τη δουλειά της."
+      },
+      {
+        "id": 30,
+        "question": "Ποια Ελληνίδα influencer έγινε μητέρα το 2022 και μοιράζεται συχνά στιγμές από τη ζωή της;",
+        "options": [
+          "Super Kiki",
+          "Ιωάννα Τούνη",
+          "Αθηνά Οικονομάκου",
+          "Ευρυδίκη Βαλαβάνη"
+        ],
+        "answer": 1,
+        "info": "Η Ιωάννα Τούνη έγινε μητέρα το 2022 και μοιράζεται την καθημερινότητά της με τους followers της."
+      },
+      {
+        "id": 31,
+        "question": "Ποια τραγουδίστρια κατηγορήθηκε για το ότι αντιγράφει τη Madonna;",
+        "options": ["Britney Spears", "Lady Gaga", "Dua Lipa", "Beyoncé"],
+        "answer": 1,
+        "info": "Η Lady Gaga έχει δεχτεί σχόλια για ομοιότητες με το στυλ της Madonna."
+      },
+      {
+        "id": 32,
+        "question": "Ποια εκπομπή έφερε τη Ζέτα Μακρυπούλια ξανά στο προσκήνιο το 2010;",
+        "options": [
+          "Dancing with the Stars",
+          "The Voice",
+          "Το Πρωινό",
+          "Just the 2 of Us"
+        ],
+        "answer": 0,
+        "info": "Η Ζέτα Μακρυπούλια παρουσίασε το 'Dancing with the Stars' το 2010 και ανανέωσε την τηλεοπτική της πορεία."
+      },
+      {
+        "id": 33,
+        "question": "Ποια ηθοποιός ήταν παντρεμένη με τον Ashton Kutcher;",
+        "options": [
+          "Mila Kunis",
+          "Demi Moore",
+          "Reese Witherspoon",
+          "Natalie Portman"
+        ],
+        "answer": 1,
+        "info": "Η Demi Moore ήταν παντρεμένη με τον Ashton Kutcher μέχρι το 2013."
+      },
+      {
+        "id": 34,
+        "question": "Ποια παρουσιάστρια έχει αποκτήσει το προσωνύμιο 'Ελένη της καρδιάς μας';",
+        "options": [
+          "Ελένη Τσολάκη",
+          "Ελένη Φουρέιρα",
+          "Ελένη Μενεγάκη",
+          "Ελένη Χατζίδου"
+        ],
+        "answer": 2,
+        "info": "Η Ελένη Μενεγάκη έχει χαρακτηριστεί 'Ελένη της καρδιάς μας' από το κοινό και τα media."
+      },
+      {
+        "id": 35,
+        "question": "Ποια σταρ του Hollywood είχε έντονη διαμάχη με την Taylor Swift μέσω Twitter;",
+        "options": ["Demi Lovato", "Miley Cyrus", "Nicki Minaj", "Katy Perry"],
+        "answer": 2,
+        "info": "Η Taylor Swift και η Nicki Minaj είχαν έντονη δημόσια αντιπαράθεση στο Twitter το 2015."
+      },
+      {
+        "id": 36,
+        "question": "Ποιος Έλληνας τραγουδιστής έχει χαρακτηριστεί 'κακό παιδί της showbiz';",
+        "options": ["Σάκης Ρουβάς", "Σνικ", "Τριαντάφυλλος", "Νίνο"],
+        "answer": 1,
+        "info": "Ο ράπερ Snik έχει χαρακτηριστεί 'κακό παιδί' λόγω της συμπεριφοράς του και των δημόσιων σχολίων του."
+      },
+      {
+        "id": 37,
+        "question": "Ποια Ελληνίδα παρουσιάστρια παντρεύτηκε επιχειρηματία από την Κύπρο;",
+        "options": [
+          "Σίσσυ Χρηστίδου",
+          "Δούκισσα Νομικού",
+          "Κατερίνα Καινούργιου",
+          "Μαίρη Συνατσάκη"
+        ],
+        "answer": 1,
+        "info": "Η Δούκισσα Νομικού είναι παντρεμένη με τον Δημήτρη Θεοδωρίδη, γιο του Σάββα Θεοδωρίδη."
+      },
+      {
+        "id": 38,
+        "question": "Ποια σταρ του Hollywood έγινε αντικείμενο θαυμασμού λόγω του φορέματος της στα Oscars του 2012;",
+        "options": [
+          "Charlize Theron",
+          "Angelina Jolie",
+          "Jennifer Lawrence",
+          "Anne Hathaway"
+        ],
+        "answer": 1,
+        "info": "Η Angelina Jolie εντυπωσίασε με το μαύρο φόρεμα και το θρυλικό σκίσιμο στο πόδι στα Oscars του 2012."
+      },
+      {
+        "id": 39,
+        "question": "Ποια είναι η πιο πολυσυζητημένη σχέση της Κατερίνας Καινούργιου;",
+        "options": [
+          "Παναγιώτης Ταχτσίδης",
+          "Φίλιππος Τσαγκρίδης",
+          "Νίκος Κοκλώνης",
+          "Γιώργος Λιάγκας"
+        ],
+        "answer": 1,
+        "info": "Η σχέση της Κατερίνας Καινούργιου με τον Φίλιππο Τσαγκρίδη απασχόλησε τα gossip περιοδικά για χρόνια."
+      },
+      {
+        "id": 40,
+        "question": "Ποια pop star κυκλοφόρησε το άλμπουμ 'Lemonade' για να εκφράσει προσωπικές της εμπειρίες;",
+        "options": ["Beyoncé", "Adele", "Rihanna", "Lizzo"],
+        "answer": 0,
+        "info": "Το 'Lemonade' της Beyoncé ερμηνεύτηκε ως δημόσια αναφορά στη φημολογούμενη απιστία του Jay-Z."
+      },
+      {
+        "id": 41,
+        "question": "Ποια Ελληνίδα τραγουδίστρια είναι παντρεμένη με ποδοσφαιριστή;",
+        "options": [
+          "Τάμτα",
+          "Έλενα Παπαρίζου",
+          "Ειρήνη Παπαδοπούλου",
+          "Αντελίνα Βαρθακούρη"
+        ],
+        "answer": 1,
+        "info": "Η Έλενα Παπαρίζου είναι παντρεμένη με τον Ανδρέα Καψάλη, πρώην ποδοσφαιριστή."
+      },
+      {
+        "id": 42,
+        "question": "Ποια ηθοποιός απασχόλησε τα media με το διαζύγιό της από τον Tom Brady;",
+        "options": [
+          "Gisele Bündchen",
+          "Reese Witherspoon",
+          "Jessica Alba",
+          "Kate Upton"
+        ],
+        "answer": 0,
+        "info": "Η Gisele Bündchen χώρισε από τον Tom Brady το 2022, κάτι που συζητήθηκε ευρέως στα gossip."
+      },
+      {
+        "id": 43,
+        "question": "Ποια Ελληνίδα ηθοποιός έγινε viral για τις δηλώσεις της στο Instagram κατά της τηλεόρασης;",
+        "options": [
+          "Μαρία Σολωμού",
+          "Μαρία Κορινθίου",
+          "Τόνια Σωτηροπούλου",
+          "Μαρία Μπεκατώρου"
+        ],
+        "answer": 0,
+        "info": "Η Μαρία Σολωμού έκανε σειρά stories κατά της τηλεοπτικής πραγματικότητας, που έγιναν viral."
+      },
+      {
+        "id": 44,
+        "question": "Ποια σταρ έγινε μητέρα μέσω εξωσωματικής γονιμοποίησης στα 50 της;",
+        "options": [
+          "Madonna",
+          "Janet Jackson",
+          "Jennifer Lopez",
+          "Halle Berry"
+        ],
+        "answer": 1,
+        "info": "Η Janet Jackson έγινε μητέρα μέσω εξωσωματικής γονιμοποίησης στα 50 της το 2017."
+      },
+      {
+        "id": 45,
+        "question": "Ποιος Έλληνας YouTuber έχει δημιουργήσει δική του gossip εκπομπή στο YouTube;",
+        "options": ["Fipster", "Kalogirou Bros", "Konilo", "TUS"],
+        "answer": 0,
+        "info": "Ο Fipster είναι γνωστός για το χιούμορ του και την εκπομπή του με gossip αναλύσεις στο YouTube."
+      },
+      {
+        "id": 46,
+        "question": "Ποια Ελληνίδα παρουσιάστρια είναι στενή φίλη με την Κατερίνα Καινούργιου;",
+        "options": [
+          "Σταματίνα Τσιμτσιλή",
+          "Μαρία Μπακοδήμου",
+          "Νάνσυ Ζαμπέτογλου",
+          "Τίνα Μεσσαροπούλου"
+        ],
+        "answer": 3,
+        "info": "Η Τίνα Μεσσαροπούλου είναι στενή φίλη και συνεργάτιδα της Κατερίνας Καινούργιου."
+      },
+      {
+        "id": 47,
+        "question": "Ποιος ήταν ο πρώην σύζυγος της Kim Kardashian που απασχόλησε τα media με τις δηλώσεις του;",
+        "options": ["Pete Davidson", "Kanye West", "Ray J", "Scott Disick"],
+        "answer": 1,
+        "info": "Ο Kanye West έχει κάνει πλήθος αμφιλεγόμενων δηλώσεων μετά το διαζύγιό του με την Kim Kardashian."
+      },
+      {
+        "id": 48,
+        "question": "Ποια Ελληνίδα celebrity είχε δημόσια σύγκρουση με την Αννίτα Πάνια;",
+        "options": [
+          "Άννα Βίσση",
+          "Ελεονώρα Μελέτη",
+          "Τζούλια Αλεξανδράτου",
+          "Μαρία Μπεκατώρου"
+        ],
+        "answer": 2,
+        "info": "Η Τζούλια Αλεξανδράτου είχε δημόσια σύγκρουση με την Αννίτα Πάνια στην εκπομπή της."
+      },
+      {
+        "id": 49,
+        "question": "Ποια τραγουδίστρια κατηγορήθηκε ότι χρησιμοποίησε playback σε live εμφάνισή της στα Grammys;",
+        "options": ["Beyoncé", "Mariah Carey", "Rihanna", "Adele"],
+        "answer": 1,
+        "info": "Η Mariah Carey είχε επικριθεί έντονα για playback σε ζωντανή εμφάνιση στα Grammys."
+      },
+      {
+        "id": 50,
+        "question": "Ποιος Έλληνας παρουσιαστής έκανε εκπομπή μόνο με gossip από social media;",
+        "options": [
+          "Νίκος Κοκλώνης",
+          "Γιώργος Λιάγκας",
+          "Θέμης Γεωργαντάς",
+          "Στέφανος Κωνσταντινίδης"
+        ],
+        "answer": 2,
+        "info": "Ο Θέμης Γεωργαντάς παρουσίαζε εκπομπές με έμφαση σε social media και gossip."
+      }
+    ]
+  },
+  {
+    "category": "Romance",
+    "questions": [
+      {
+        "id": 51,
+        "question": "Ποιος είναι ο συγγραφέας του ρομαντικού μυθιστορήματος 'Το Ημερολόγιο';",
+        "options": [
+          "Νίκολας Σπαρκς",
+          "Τζότζο Μόις",
+          "Τζέιν Όστεν",
+          "Σάρλοτ Μπροντέ"
+        ],
+        "answer": 0,
+        "info": "Ο Νίκολας Σπαρκς έγραψε το 'Ημερολόγιο', που έγινε και επιτυχημένη ταινία."
+      },
+      {
+        "id": 52,
+        "question": "Ποια ταινία αφηγείται την ιστορία αγάπης της Ρόουζ και του Τζακ πάνω σε ένα πλοίο;",
+        "options": ["Titanic", "Notebook", "P.S. I Love You", "Dear John"],
+        "answer": 0,
+        "info": "Το 'Titanic' (1997) περιγράφει τον έρωτα δύο νέων από διαφορετικούς κόσμους, σε πραγματικά γεγονότα."
+      },
+      {
+        "id": 53,
+        "question": "Ποια ηρωίδα της Τζέιν Όστεν ερωτεύεται τον κύριο Ντάρσι;",
+        "options": [
+          "Έλινορ Ντάσγουντ",
+          "Φάνι Πράις",
+          "Ελίζαμπεθ Μπένετ",
+          "Έμμα Γούντχαουζ"
+        ],
+        "answer": 2,
+        "info": "Η Ελίζαμπεθ Μπένετ είναι η πρωταγωνίστρια του 'Περηφάνια και Προκατάληψη'."
+      },
+      {
+        "id": 54,
+        "question": "Σε ποια ρομαντική ταινία πρωταγωνιστούν η Τζούλια Ρόμπερτς και ο Χιου Γκραντ;",
+        "options": [
+          "Love Actually",
+          "Notting Hill",
+          "Pretty Woman",
+          "About Time"
+        ],
+        "answer": 1,
+        "info": "Στο 'Notting Hill', η Ρόμπερτς υποδύεται μια σταρ του σινεμά που ερωτεύεται έναν απλό βιβλιοπώλη."
+      },
+      {
+        "id": 55,
+        "question": "Ποιο μυθιστόρημα της Σάρλοτ Μπροντέ θεωρείται από τα σημαντικότερα ρομαντικά έργα του 19ου αιώνα;",
+        "options": [
+          "Emily",
+          "Wuthering Heights",
+          "North and South",
+          "Jane Eyre"
+        ],
+        "answer": 3,
+        "info": "Το 'Jane Eyre' είναι κλασικό ρομαντικό μυθιστόρημα με στοιχεία φεμινισμού."
+      },
+      {
+        "id": 56,
+        "question": "Ποια σειρά βασίζεται σε βιβλία της Τζούλια Κουίν και αφορά την αριστοκρατία του 19ου αιώνα;",
+        "options": ["Downton Abbey", "Bridgerton", "The Crown", "Sanditon"],
+        "answer": 1,
+        "info": "Η σειρά 'Bridgerton' του Netflix βασίζεται στα ομώνυμα ρομαντικά βιβλία της Τζούλια Κουίν."
+      },
+      {
+        "id": 57,
+        "question": "Ποια ρομαντική ταινία περιλαμβάνει τον διάσημο μονόλογο 'You had me at hello';",
+        "options": [
+          "Jerry Maguire",
+          "When Harry Met Sally",
+          "You've Got Mail",
+          "Runaway Bride"
+        ],
+        "answer": 0,
+        "info": "Στο 'Jerry Maguire' (1996), η φράση αυτή έγινε σύμβολο ρομαντισμού στο σινεμά."
+      },
+      {
+        "id": 58,
+        "question": "Σε ποια ρομαντική κομεντί η πρωταγωνίστρια φεύγει από τους γάμους της τελευταία στιγμή;",
+        "options": [
+          "Runaway Bride",
+          "Sweet Home Alabama",
+          "My Best Friend's Wedding",
+          "The Proposal"
+        ],
+        "answer": 0,
+        "info": "Η 'Runaway Bride' με την Τζούλια Ρόμπερτς περιγράφει μια γυναίκα που εγκαταλείπει συνεχώς τους γάμους της."
+      },
+      {
+        "id": 59,
+        "question": "Ποια είναι η συγγραφέας του 'Me Before You';",
+        "options": [
+          "Cecelia Ahern",
+          "Colleen Hoover",
+          "Jojo Moyes",
+          "Jenny Han"
+        ],
+        "answer": 2,
+        "info": "Η Jojo Moyes έγραψε το συγκινητικό ρομαντικό μυθιστόρημα 'Me Before You'."
+      },
+      {
+        "id": 60,
+        "question": "Ποια σειρά περιγράφει τη ρομαντική ζωή της Λορελάι και της Ρόρι στο φανταστικό Stars Hollow;",
+        "options": [
+          "Everwood",
+          "Gilmore Girls",
+          "One Tree Hill",
+          "Dawson's Creek"
+        ],
+        "answer": 1,
+        "info": "Το 'Gilmore Girls' είναι μια σειρά με επίκεντρο τη ρομαντική και οικογενειακή ζωή δύο γυναικών."
+      },
+      {
+        "id": 61,
+        "question": "Ποια ταινία με την Ρενέ Ζελβέγκερ βασίζεται σε ένα διάσημο ημερολόγιο;",
+        "options": [
+          "Eat Pray Love",
+          "The Holiday",
+          "Bridget Jones's Diary",
+          "27 Dresses"
+        ],
+        "answer": 2,
+        "info": "Το 'Bridget Jones's Diary' βασίζεται σε βιβλίο και έγινε κλασική ρομαντική κομεντί."
+      },
+      {
+        "id": 62,
+        "question": "Ποιος είναι ο κεντρικός άντρας χαρακτήρας στο 'Pride and Prejudice';",
+        "options": [
+          "Mr. Darcy",
+          "Mr. Bingley",
+          "Mr. Rochester",
+          "Colonel Brandon"
+        ],
+        "answer": 0,
+        "info": "Ο κύριος Ντάρσι είναι ο βασικός ρομαντικός ήρωας της Τζέιν Όστεν στο 'Περηφάνια και Προκατάληψη'."
+      },
+      {
+        "id": 63,
+        "question": "Σε ποια σειρά βλέπουμε τον ρομαντικό δεσμό μεταξύ της Μέρεντιθ και του Ντέρεκ;",
+        "options": ["Grey's Anatomy", "House", "Scrubs", "Private Practice"],
+        "answer": 0,
+        "info": "Ο δεσμός Μέρεντιθ-Ντέρεκ αποτελεί έναν από τους πιο γνωστούς τηλεοπτικούς έρωτες στο 'Grey's Anatomy'."
+      },
+      {
+        "id": 64,
+        "question": "Ποια ρομαντική ταινία δείχνει την αλληλογραφία δύο αγνώστων μέσω e-mail;",
+        "options": [
+          "Sleepless in Seattle",
+          "You've Got Mail",
+          "Letters to Juliet",
+          "One Fine Day"
+        ],
+        "answer": 1,
+        "info": "Η ταινία 'You've Got Mail' με τον Τομ Χανκς και τη Μεγκ Ράιαν περιγράφει έναν e-mail έρωτα."
+      },
+      {
+        "id": 65,
+        "question": "Ποιος χαρακτήρας δηλώνει: 'I’m just a girl, standing in front of a boy, asking him to love her';",
+        "options": [
+          "Rose (Titanic)",
+          "Anna Scott (Notting Hill)",
+          "Bridget Jones",
+          "Rachel Green"
+        ],
+        "answer": 1,
+        "info": "Η Άννα Σκοτ στο 'Notting Hill' απευθύνει αυτή την εμβληματική φράση στον Γουίλιαμ Θάκερ."
+      },
+      {
+        "id": 66,
+        "question": "Ποια είναι η συγγραφέας του 'Twilight';",
+        "options": [
+          "Cassandra Clare",
+          "Stephenie Meyer",
+          "Suzanne Collins",
+          "Veronica Roth"
+        ],
+        "answer": 1,
+        "info": "Η Stephenie Meyer έγραψε τη ρομαντική βαμπιρική σειρά 'Twilight'."
+      },
+      {
+        "id": 67,
+        "question": "Ποια ταινία δείχνει έναν χωρισμένο άντρα που λαμβάνει γράμματα από τη σύζυγό του μετά το θάνατό της;",
+        "options": [
+          "A Walk to Remember",
+          "The Vow",
+          "P.S. I Love You",
+          "Dear John"
+        ],
+        "answer": 2,
+        "info": "Το 'P.S. I Love You' βασίζεται σε μυθιστόρημα της Cecelia Ahern και συγκίνησε εκατομμύρια θεατές."
+      },
+      {
+        "id": 68,
+        "question": "Ποιο είναι το ρομαντικό στοιχείο στη σειρά 'Outlander';",
+        "options": [
+          "Ταξίδι στον χρόνο",
+          "Απαγορευμένος έρωτας",
+          "Αλληλογραφία",
+          "Μουσική"
+        ],
+        "answer": 0,
+        "info": "Το 'Outlander' συνδυάζει τον έρωτα με φαντασία και ιστορική περιπέτεια μέσω ταξιδιού στον χρόνο."
+      },
+      {
+        "id": 69,
+        "question": "Ποια ταινία περιγράφει μια γυναίκα που ερωτεύεται τον άντρα που φρόντιζε τον άντρα της μετά από ατύχημα;",
+        "options": ["The Vow", "Me Before You", "Safe Haven", "If I Stay"],
+        "answer": 1,
+        "info": "Το 'Me Before You' αφηγείται την ιστορία μιας κοπέλας και ενός παράλυτου άντρα που την αλλάζει."
+      },
+      {
+        "id": 70,
+        "question": "Ποια σειρά έχει το ερωτικό τρίγωνο μεταξύ της Έλενα, του Στέφαν και του Ντέιμον;",
+        "options": [
+          "The Vampire Diaries",
+          "True Blood",
+          "Buffy the Vampire Slayer",
+          "The Originals"
+        ],
+        "answer": 0,
+        "info": "Στο 'The Vampire Diaries' η Έλενα βρίσκεται ανάμεσα σε δύο αδέρφια βαμπίρ."
+      },
+      {
+        "id": 71,
+        "question": "Ποια ρομαντική σειρά του Netflix εξελίσσεται μέσα σε πανεπιστημιακή κοινότητα;",
+        "options": [
+          "Sex Education",
+          "Never Have I Ever",
+          "To All the Boys I've Loved Before",
+          "Heartstopper"
+        ],
+        "answer": 2,
+        "info": "Το 'To All the Boys I've Loved Before' βασίζεται σε ρομαντικά νεανικά μυθιστορήματα της Jenny Han."
+      },
+      {
+        "id": 72,
+        "question": "Ποια ταινία περιλαμβάνει έναν έρωτα ανάμεσα σε χορευτές διαφορετικών κοινωνικών τάξεων;",
+        "options": ["La La Land", "Dirty Dancing", "Step Up", "Flashdance"],
+        "answer": 1,
+        "info": "Το 'Dirty Dancing' έγινε ρομαντική cult επιτυχία με το ζευγάρι Johnny και Baby."
+      },
+      {
+        "id": 73,
+        "question": "Ποια συγγραφέας έγραψε το 'It Ends With Us';",
+        "options": [
+          "Colleen Hoover",
+          "Jojo Moyes",
+          "Sally Rooney",
+          "Emily Henry"
+        ],
+        "answer": 0,
+        "info": "Η Colleen Hoover έχει γράψει αρκετά ρομαντικά βιβλία που έχουν γίνει best-sellers."
+      },
+      {
+        "id": 74,
+        "question": "Ποιος είναι ο ρομαντικός παρτενέρ της Rachel στη σειρά 'Friends';",
+        "options": ["Ross", "Joey", "Chandler", "Richard"],
+        "answer": 0,
+        "info": "Η σχέση Ross και Rachel αποτελεί έναν από τους πιο χαρακτηριστικούς τηλεοπτικούς έρωτες."
+      },
+      {
+        "id": 75,
+        "question": "Ποια σειρά περιγράφει την αλληλογραφία δύο νέων που δεν γνωρίζονται αλλά μοιράζονται βιβλία;",
+        "options": [
+          "Dash & Lily",
+          "Love, Victor",
+          "The Summer I Turned Pretty",
+          "Normal People"
+        ],
+        "answer": 0,
+        "info": "Το 'Dash & Lily' είναι νεανική ρομαντική σειρά που εκτυλίσσεται τα Χριστούγεννα."
+      },
+      {
+        "id": 76,
+        "question": "Ποια ρομαντική ταινία βασίζεται σε έναν έρωτα που ξεκινάει μέσα σε βιβλιοπωλείο;",
+        "options": [
+          "Notting Hill",
+          "You've Got Mail",
+          "The Guernsey Literary Society",
+          "Love Rosie"
+        ],
+        "answer": 0,
+        "info": "Στο 'Notting Hill', ένας απλός βιβλιοπώλης ερωτεύεται μια διάσημη ηθοποιό."
+      },
+      {
+        "id": 77,
+        "question": "Ποια συγγραφέας έγραψε το 'Pride and Prejudice';",
+        "options": [
+          "Emily Brontë",
+          "Jane Austen",
+          "Louisa May Alcott",
+          "George Eliot"
+        ],
+        "answer": 1,
+        "info": "Η Τζέιν Όστεν είναι από τις πιο διάσημες συγγραφείς ρομαντικής λογοτεχνίας."
+      },
+      {
+        "id": 78,
+        "question": "Ποια ταινία απεικονίζει έναν έρωτα που ζει μόνο μια μέρα κάθε χρόνο;",
+        "options": [
+          "One Day",
+          "Before Sunrise",
+          "Eternal Sunshine of the Spotless Mind",
+          "About Time"
+        ],
+        "answer": 0,
+        "info": "Στο 'One Day', οι πρωταγωνιστές συναντιούνται κάθε χρόνο την ίδια μέρα για δεκαετίες."
+      },
+      {
+        "id": 79,
+        "question": "Σε ποια σειρά βλέπουμε τον έρωτα δύο μαθητών λυκείου με θέμα LGBTQ+;",
+        "options": ["Skins", "Young Royals", "Heartstopper", "Elite"],
+        "answer": 2,
+        "info": "Το 'Heartstopper' είναι μια γλυκιά ρομαντική σειρά βασισμένη σε graphic novel."
+      },
+      {
+        "id": 80,
+        "question": "Ποια ρομαντική σειρά δείχνει τον έρωτα δύο παιδικών φίλων σε ένα παραλιακό θέρετρο;",
+        "options": [
+          "The Summer I Turned Pretty",
+          "Outer Banks",
+          "Normal People",
+          "Love, Victor"
+        ],
+        "answer": 0,
+        "info": "Το 'The Summer I Turned Pretty' βασίζεται σε βιβλία της Jenny Han και απεικονίζει ένα love triangle."
+      },
+      {
+        "id": 81,
+        "question": "Ποια ρομαντική ταινία αφηγείται την ιστορία αγάπης ενός μουσικού και μιας σερβιτόρας;",
+        "options": ["Once", "Begin Again", "The Last Song", "Walk the Line"],
+        "answer": 0,
+        "info": "Η ταινία 'Once' κέρδισε Όσκαρ τραγουδιού και παρουσιάζει μια τρυφερή μουσική ιστορία αγάπης."
+      },
+      {
+        "id": 82,
+        "question": "Ποια σειρά έχει πρωταγωνίστρια μια συγγραφέα που γράφει ανώνυμα ερωτικά μυθιστορήματα;",
+        "options": ["Sex/Life", "Emily in Paris", "Sweet Magnolias", "You"],
+        "answer": 0,
+        "info": "Το 'Sex/Life' αφηγείται τη σύγκρουση ανάμεσα σε σταθερό γάμο και έντονο πάθος."
+      },
+      {
+        "id": 83,
+        "question": "Ποια συγγραφέας έγραψε το 'The Notebook';",
+        "options": [
+          "Jojo Moyes",
+          "Cecelia Ahern",
+          "Nicholas Sparks",
+          "Colleen Hoover"
+        ],
+        "answer": 2,
+        "info": "Ο Nicholas Sparks είναι γνωστός για τα συγκινητικά ρομαντικά του μυθιστορήματα."
+      },
+      {
+        "id": 84,
+        "question": "Ποιο ρομαντικό στοιχείο χαρακτηρίζει την ταινία 'About Time';",
+        "options": [
+          "Προφητεία",
+          "Ταξίδι στον χρόνο",
+          "Αναμνήσεις",
+          "Παράλληλα σύμπαντα"
+        ],
+        "answer": 1,
+        "info": "Στο 'About Time', ο πρωταγωνιστής μπορεί να ταξιδέψει στο παρελθόν για να διορθώσει λάθη στον έρωτα."
+      },
+      {
+        "id": 85,
+        "question": "Ποια είναι η βασική θεματολογία του 'Normal People';",
+        "options": [
+          "Φιλία και θάνατος",
+          "Παιδική ηλικία",
+          "Σχέσεις και ταξικές διαφορές",
+          "Σχολικό bullying"
+        ],
+        "answer": 2,
+        "info": "Το 'Normal People' εξερευνά τον έρωτα ανάμεσα σε δύο νέους από διαφορετικά κοινωνικά στρώματα."
+      },
+      {
+        "id": 86,
+        "question": "Ποια ρομαντική σειρά βασίζεται σε ρομαντικές συνταγές και μαγειρική τέχνη;",
+        "options": [
+          "Dash & Lily",
+          "Julie & Julia",
+          "Sweet Magnolias",
+          "From Scratch"
+        ],
+        "answer": 3,
+        "info": "Το 'From Scratch' βασίζεται σε αληθινή ιστορία έρωτα, φαγητού και απώλειας."
+      },
+      {
+        "id": 87,
+        "question": "Ποια ρομαντική σειρά του Netflix δείχνει τη ζωή της Τζέιν που μένει έγκυος κατά λάθος;",
+        "options": [
+          "Jane the Virgin",
+          "Sweet Tooth",
+          "Ginny & Georgia",
+          "Emily in Paris"
+        ],
+        "answer": 0,
+        "info": "'Jane the Virgin' είναι μια τρυφερή σειρά εμπνευσμένη από λατινοαμερικανικά σίριαλ."
+      },
+      {
+        "id": 88,
+        "question": "Ποια ρομαντική σειρά δείχνει την καθημερινότητα τριών γυναικών στη Νότια Καρολίνα;",
+        "options": [
+          "Sweet Magnolias",
+          "Virgin River",
+          "Chesapeake Shores",
+          "The Bold Type"
+        ],
+        "answer": 0,
+        "info": "Το 'Sweet Magnolias' είναι σειρά γεμάτη ζεστασιά, ρομαντισμό και φιλία."
+      },
+      {
+        "id": 89,
+        "question": "Ποια ταινία περιγράφει έναν άντρα που ξεχνάει τη μνήμη του και την ξανακερδίζει με την αγάπη;",
+        "options": ["The Vow", "Remember Me", "The Longest Ride", "Dear John"],
+        "answer": 0,
+        "info": "'The Vow' βασίζεται σε αληθινή ιστορία και δείχνει τη δύναμη της αγάπης στη μνήμη."
+      },
+      {
+        "id": 90,
+        "question": "Ποιο μυθιστόρημα περιλαμβάνει την ιστορία του Χίθκλιφ και της Κάθριν;",
+        "options": ["Jane Eyre", "Emma", "Wuthering Heights", "Persuasion"],
+        "answer": 2,
+        "info": "'Wuthering Heights' της Emily Brontë είναι μια τραγική ιστορία αγάπης και εμμονής."
+      },
+      {
+        "id": 91,
+        "question": "Ποια είναι η βασική θεματική του 'Persuasion' της Τζέιν Όστεν;",
+        "options": [
+          "Πρώτη αγάπη",
+          "Δεύτερη ευκαιρία στον έρωτα",
+          "Απαγορευμένος γάμος",
+          "Κοινωνική ανισότητα"
+        ],
+        "answer": 1,
+        "info": "'Persuasion' εστιάζει στη δύναμη του χρόνου και στην αναγέννηση μιας παλιάς αγάπης."
+      },
+      {
+        "id": 92,
+        "question": "Ποια σειρά βασίζεται στο μυθιστόρημα 'Little Women';",
+        "options": [
+          "Anne with an E",
+          "Little Women",
+          "The Durrells",
+          "The Gilded Age"
+        ],
+        "answer": 1,
+        "info": "'Little Women' είναι διαχρονικό έργο με αδερφικές σχέσεις και ρομαντισμό."
+      },
+      {
+        "id": 93,
+        "question": "Ποια ταινία περιγράφει τη σχέση ενός άστεγου μουσικού και μιας μοναχικής κοπέλας στη Νέα Υόρκη;",
+        "options": [
+          "Begin Again",
+          "La La Land",
+          "Music and Lyrics",
+          "August Rush"
+        ],
+        "answer": 0,
+        "info": "Το 'Begin Again' με τον Μαρκ Ράφαλο και την Κίρα Νάιτλι είναι μια ρομαντική ιστορία με μουσική."
+      },
+      {
+        "id": 94,
+        "question": "Ποια συγγραφέας έγινε γνωστή από το TikTok για τα ρομαντικά της βιβλία;",
+        "options": [
+          "Sally Rooney",
+          "Emily Henry",
+          "Ali Hazelwood",
+          "Colleen Hoover"
+        ],
+        "answer": 3,
+        "info": "Η Colleen Hoover έγινε viral μέσω BookTok με βιβλία όπως το 'It Ends With Us'."
+      },
+      {
+        "id": 95,
+        "question": "Ποια ρομαντική σειρά ξεκινά με την επιστροφή μιας γυναίκας στη γενέτειρά της μετά από διαζύγιο;",
+        "options": [
+          "Virgin River",
+          "Sweet Magnolias",
+          "Chesapeake Shores",
+          "Hart of Dixie"
+        ],
+        "answer": 2,
+        "info": "'Chesapeake Shores' περιγράφει μια νέα αρχή γεμάτη ρομαντικές εξελίξεις."
+      },
+      {
+        "id": 96,
+        "question": "Ποια σειρά είναι spin-off του 'To All the Boys I've Loved Before';",
+        "options": [
+          "XO, Kitty",
+          "Kissing Booth",
+          "Dash & Lily",
+          "Young Royals"
+        ],
+        "answer": 0,
+        "info": "'XO, Kitty' ακολουθεί την αδερφή της Lara Jean σε νέες ρομαντικές περιπέτειες."
+      },
+      {
+        "id": 97,
+        "question": "Ποια ηθοποιός ενσάρκωσε τη Ρέιτσελ στο 'The Notebook';",
+        "options": [
+          "Mandy Moore",
+          "Scarlett Johansson",
+          "Rachel McAdams",
+          "Amy Adams"
+        ],
+        "answer": 2,
+        "info": "Η Rachel McAdams πρωταγωνίστησε στο 'Notebook', μια από τις πιο ρομαντικές ταινίες όλων των εποχών."
+      },
+      {
+        "id": 98,
+        "question": "Ποια είναι η βασική ρομαντική θεματική του 'La La Land';",
+        "options": [
+          "Αγάπη και επιτυχία",
+          "Αγάπη και απώλεια",
+          "Πρώτος έρωτας",
+          "Μοιραία συνάντηση"
+        ],
+        "answer": 0,
+        "info": "'La La Land' είναι μια ρομαντική μουσική ταινία για τις θυσίες της καριέρας και του έρωτα."
+      },
+      {
+        "id": 99,
+        "question": "Ποια ρομαντική σειρά περιλαμβάνει το love triangle της Μπέλι με τα αδέρφια Κόνραντ και Τζερεμάια;",
+        "options": [
+          "The Summer I Turned Pretty",
+          "Outer Banks",
+          "Gossip Girl",
+          "Riverdale"
+        ],
+        "answer": 0,
+        "info": "'The Summer I Turned Pretty' είναι νεανική σειρά με επίκεντρο τη ρομαντική ενηλικίωση."
+      },
+      {
+        "id": 100,
+        "question": "Ποια ρομαντική ταινία τελειώνει με τον άντρα να περιμένει στη βροχή έξω από μια γκαλερί τέχνης;",
+        "options": ["The Vow", "The Notebook", "One Day", "Love, Rosie"],
+        "answer": 1,
+        "info": "'The Notebook' είναι γνωστό για τη συγκινητική τελευταία σκηνή και τον έρωτα που διαρκεί μια ζωή."
+      }
+    ]
+  },
+  {
+    "category": "Music",
+    "questions": [
+      {
+        "id": 101,
+        "question": "Ποια τραγουδίστρια κυκλοφόρησε το τραγούδι 'Flowers' το 2023;",
+        "options": [
+          "Dua Lipa",
+          "Billie Eilish",
+          "Miley Cyrus",
+          "Olivia Rodrigo"
+        ],
+        "answer": 2,
+        "info": "Η Miley Cyrus κυκλοφόρησε το 'Flowers', ένα τραγούδι αυτοδυναμίας που έγινε viral."
+      },
+      {
+        "id": 102,
+        "question": "Ποιος καλλιτέχνης έγινε γνωστός το 2020 με το τραγούδι 'Blinding Lights';",
+        "options": ["Post Malone", "The Weeknd", "Drake", "Justin Bieber"],
+        "answer": 1,
+        "info": "Το 'Blinding Lights' του The Weeknd έγινε ένα από τα πιο επιτυχημένα τραγούδια της δεκαετίας."
+      },
+      {
+        "id": 103,
+        "question": "Ποια τραγουδίστρια κυκλοφόρησε το άλμπουμ 'SOUR' το 2021;",
+        "options": [
+          "Ariana Grande",
+          "Billie Eilish",
+          "Olivia Rodrigo",
+          "Tate McRae"
+        ],
+        "answer": 2,
+        "info": "Η Olivia Rodrigo έκανε ντεμπούτο με το άλμπουμ 'SOUR', κερδίζοντας διεθνή αναγνώριση."
+      },
+      {
+        "id": 104,
+        "question": "Ποιο ελληνικό συγκρότημα έγινε viral το 2023 με το τραγούδι 'Μυστήριο Τρένο';",
+        "options": ["ΜΕΛΙSSES", "Χατ Τρικ", "Good Job Nicky", "Στίχοιμα"],
+        "answer": 0,
+        "info": "Οι ΜΕΛΙSSES κυκλοφόρησαν το 'Μυστήριο Τρένο', που έγινε επιτυχία στα ελληνικά charts."
+      },
+      {
+        "id": 105,
+        "question": "Ποια τραγουδίστρια επέστρεψε με το άλμπουμ '30' το 2021;",
+        "options": ["Adele", "Lana Del Rey", "Dua Lipa", "Taylor Swift"],
+        "answer": 0,
+        "info": "Η Adele κυκλοφόρησε το '30', μιλώντας για το διαζύγιό της και την προσωπική της εξέλιξη."
+      },
+      {
+        "id": 106,
+        "question": "Ποια τραγουδίστρια κυκλοφόρησε το 'Don't Start Now';",
+        "options": ["Dua Lipa", "Billie Eilish", "Ava Max", "Camila Cabello"],
+        "answer": 0,
+        "info": "Το 'Don't Start Now' της Dua Lipa θεωρείται ένα από τα μεγαλύτερα dance hits των τελευταίων ετών."
+      },
+      {
+        "id": 107,
+        "question": "Ποιο boy band κυκλοφόρησε το 'Butter' το 2021;",
+        "options": ["One Direction", "BTS", "Big Time Rush", "Stray Kids"],
+        "answer": 1,
+        "info": "Οι BTS σημείωσαν παγκόσμια επιτυχία με το single 'Butter'."
+      },
+      {
+        "id": 108,
+        "question": "Ποιο είναι το όνομα του ελληνικού ραπ καλλιτέχνη που κυκλοφόρησε το 'Caliente';",
+        "options": ["Light", "Snik", "Rack", "Toquel"],
+        "answer": 3,
+        "info": "Ο Toquel κυκλοφόρησε το 'Caliente', που έγινε επιτυχία στο ελληνικό YouTube και TikTok."
+      },
+      {
+        "id": 109,
+        "question": "Ποια καλλιτέχνιδα κυκλοφόρησε το 'Happier Than Ever';",
+        "options": ["Adele", "Taylor Swift", "Billie Eilish", "Lorde"],
+        "answer": 2,
+        "info": "Η Billie Eilish κυκλοφόρησε το ομώνυμο άλμπουμ και τραγούδι το 2021."
+      },
+      {
+        "id": 110,
+        "question": "Ποιο τραγούδι του Harry Styles έγινε παγκόσμιο hit το 2022;",
+        "options": [
+          "Golden",
+          "As It Was",
+          "Late Night Talking",
+          "Watermelon Sugar"
+        ],
+        "answer": 1,
+        "info": "Το 'As It Was' έγινε νούμερο 1 σε πολλά charts και έγινε το πιο επιτυχημένο single του Harry Styles."
+      },
+      {
+        "id": 111,
+        "question": "Ποιος καλλιτέχνης κυκλοφόρησε το ελληνικό hit 'Miami';",
+        "options": ["FY", "Snik", "Light", "Rack"],
+        "answer": 0,
+        "info": "Ο FY έκανε τεράστια επιτυχία με το 'Miami' στα ελληνικά charts."
+      },
+      {
+        "id": 112,
+        "question": "Ποια καλλιτέχνιδα κυκλοφόρησε το 'Midnights' το 2022;",
+        "options": ["Lana Del Rey", "Taylor Swift", "Olivia Rodrigo", "Adele"],
+        "answer": 1,
+        "info": "Η Taylor Swift κυκλοφόρησε το άλμπουμ 'Midnights' με νέα προσέγγιση στον ήχο της."
+      },
+      {
+        "id": 113,
+        "question": "Ποιος ράπερ κυκλοφόρησε το 'Montero (Call Me By Your Name)';",
+        "options": ["Lil Nas X", "Drake", "Jack Harlow", "Tyler, The Creator"],
+        "answer": 0,
+        "info": "Ο Lil Nas X προκάλεσε συζητήσεις με το προκλητικό και δημιουργικό video clip του 'Montero'."
+      },
+      {
+        "id": 114,
+        "question": "Ποια ελληνική τραγουδίστρια κυκλοφόρησε το τραγούδι 'Μάτια Κλειστά' με τον Hawk;",
+        "options": [
+          "Josephine",
+          "Κατερίνα Στικούδη",
+          "Ελένη Φουρέιρα",
+          "Marseaux"
+        ],
+        "answer": 3,
+        "info": "Η Marseaux συνεργάστηκε με τον Hawk στο 'Μάτια Κλειστά', συνδυάζοντας pop και alternative ήχο."
+      },
+      {
+        "id": 115,
+        "question": "Ποια καλλιτέχνιδα κυκλοφόρησε το 2023 το hit 'Vampire';",
+        "options": [
+          "Billie Eilish",
+          "Olivia Rodrigo",
+          "Sabrina Carpenter",
+          "Lana Del Rey"
+        ],
+        "answer": 1,
+        "info": "Η Olivia Rodrigo επέστρεψε το 2023 με το 'Vampire', ένα κομμάτι για τοξικές σχέσεις."
+      },
+      {
+        "id": 116,
+        "question": "Ποιο ελληνικό rap/urban συγκρότημα περιλαμβάνει τους Hawk και Sapranov;",
+        "options": ["Στίχοιμα", "Above the Hood", "Μέλας Θάνατος", "Κανένας"],
+        "answer": 1,
+        "info": "Το Above the Hood είναι urban μουσικό crew με έντονη παρουσία από το 2020 και μετά."
+      },
+      {
+        "id": 117,
+        "question": "Ποια παγκόσμια επιτυχία κυκλοφόρησε η Shakira με τον Bizarrap το 2023;",
+        "options": [
+          "Te Felicito",
+          "BZRP Music Sessions Vol. 53",
+          "Monotonía",
+          "Girl Like Me"
+        ],
+        "answer": 1,
+        "info": "Η 'BZRP Music Sessions Vol. 53' έγινε viral για τους στίχους της Shakira μετά τον χωρισμό της."
+      },
+      {
+        "id": 118,
+        "question": "Ποια ήταν η μεγάλη επιτυχία της Beyoncé το 2022 από το άλμπουμ 'Renaissance';",
+        "options": [
+          "Break My Soul",
+          "Cuff It",
+          "Alien Superstar",
+          "Pure/Honey"
+        ],
+        "answer": 0,
+        "info": "Το 'Break My Soul' σηματοδότησε τη στροφή της Beyoncé σε house & dance ήχους."
+      },
+      {
+        "id": 119,
+        "question": "Ποιος καλλιτέχνης κέρδισε το Eurovision 2021 για την Ιταλία με ροκ τραγούδι;",
+        "options": ["Mahmood", "Damiano David", "Måneskin", "Annalisa"],
+        "answer": 2,
+        "info": "Οι Måneskin με το 'Zitti e Buoni' κατέκτησαν την κορυφή και απέκτησαν διεθνή φήμη."
+      },
+      {
+        "id": 120,
+        "question": "Ποιος ήταν ο πρώτος ράπερ που συνεργάστηκε με την Madonna μετά το 2020;",
+        "options": ["Bad Bunny", "Tokischa", "Playboi Carti", "Lil Baby"],
+        "answer": 1,
+        "info": "Η Madonna συνεργάστηκε με την Tokischa για μια σύγχρονη εκδοχή του 'Hung Up'."
+      },
+      {
+        "id": 121,
+        "question": "Ποιος Έλληνας trapper έκανε το hit 'Για Μένα';",
+        "options": ["Saske", "Light", "Trannos", "FY"],
+        "answer": 2,
+        "info": "Ο Trannos κυκλοφόρησε το 'Για Μένα', εδραιώνοντάς τον στο trap κοινό."
+      },
+      {
+        "id": 122,
+        "question": "Ποιο τραγούδι της Lady Gaga έγινε soundtrack για το 'Top Gun: Maverick';",
+        "options": [
+          "Hold My Hand",
+          "Stupid Love",
+          "Always Remember Us This Way",
+          "Sine from Above"
+        ],
+        "answer": 0,
+        "info": "Η Lady Gaga έγραψε το 'Hold My Hand' για την ταινία 'Top Gun: Maverick' (2022)."
+      },
+      {
+        "id": 123,
+        "question": "Ποιος ράπερ έγινε διάσημος στην Ελλάδα με το τραγούδι 'Ντύσου Ζεστά';",
+        "options": ["Saske", "Mad Clip", "Toquel", "Light"],
+        "answer": 1,
+        "info": "Ο Mad Clip έγινε ευρύτερα γνωστός και αγαπητός πριν τον τραγικό θάνατό του το 2021."
+      },
+      {
+        "id": 124,
+        "question": "Ποια τραγουδίστρια κυκλοφόρησε το τραγούδι 'Dance The Night' για την ταινία Barbie (2023);",
+        "options": ["Doja Cat", "Ariana Grande", "Dua Lipa", "Charli XCX"],
+        "answer": 2,
+        "info": "Η Dua Lipa συμμετείχε στο soundtrack της Barbie με το 'Dance The Night'."
+      },
+      {
+        "id": 125,
+        "question": "Ποιος Έλληνας pop τραγουδιστής κυκλοφόρησε το 'Χαμός';",
+        "options": [
+          "Κωνσταντίνος Αργυρός",
+          "Πέτρος Ιακωβίδης",
+          "Νίκος Οικονομόπουλος",
+          "Stan"
+        ],
+        "answer": 0,
+        "info": "Ο Κωνσταντίνος Αργυρός συνέχισε τις επιτυχίες του με το χορευτικό κομμάτι 'Χαμός'."
+      },
+      {
+        "id": 126,
+        "question": "Ποια είναι η πιο πετυχημένη γυναίκα artist στο Spotify το 2023;",
+        "options": ["Rihanna", "Taylor Swift", "Dua Lipa", "Billie Eilish"],
+        "answer": 1,
+        "info": "Η Taylor Swift κατέκτησε την κορυφή του Spotify το 2023 με πολλαπλές κυκλοφορίες."
+      },
+      {
+        "id": 127,
+        "question": "Ποιος καλλιτέχνης κυκλοφόρησε το 'First Class';",
+        "options": ["Jack Harlow", "Post Malone", "Drake", "21 Savage"],
+        "answer": 0,
+        "info": "'First Class' του Jack Harlow έγινε viral με το sample του 'Glamorous'."
+      },
+      {
+        "id": 128,
+        "question": "Ποιος Έλληνας μουσικός συνεργάστηκε με την Ελένη Φουρέιρα στο τραγούδι 'Aeraki';",
+        "options": ["Mad Clip", "Mente Fuerte", "Trannos", "Light"],
+        "answer": 1,
+        "info": "Ο Mente Fuerte και η Φουρέιρα συνεργάστηκαν στο 'Aeraki', με συνδυασμό rap και pop."
+      },
+      {
+        "id": 129,
+        "question": "Ποιο συγκρότημα κυκλοφόρησε το 2023 το τραγούδι 'Unholy';",
+        "options": [
+          "Imagine Dragons",
+          "Panic! At The Disco",
+          "Sam Smith & Kim Petras",
+          "Coldplay"
+        ],
+        "answer": 2,
+        "info": "'Unholy' ήταν συνεργασία Sam Smith και Kim Petras, που έγινε παγκόσμιο hit."
+      },
+      {
+        "id": 130,
+        "question": "Ποια Ελληνίδα τραγουδίστρια κυκλοφόρησε το τραγούδι 'Αεράκι';",
+        "options": ["Ελένη Φουρέιρα", "Josephine", "Τάμτα", "Marseaux"],
+        "answer": 0,
+        "info": "Η Ελένη Φουρέιρα κυκλοφόρησε το 'Αεράκι' με έθνικ pop στοιχεία."
+      },
+      {
+        "id": 131,
+        "question": "Ποια καλλιτέχνιδα κυκλοφόρησε το 'Good 4 U';",
+        "options": [
+          "Dua Lipa",
+          "Billie Eilish",
+          "Olivia Rodrigo",
+          "Ariana Grande"
+        ],
+        "answer": 2,
+        "info": "Η Olivia Rodrigo κυκλοφόρησε το δυναμικό 'Good 4 U' το 2021, σημειώνοντας τεράστια επιτυχία."
+      },
+      {
+        "id": 132,
+        "question": "Ποια ελληνική καλλιτέχνιδα κυκλοφόρησε το τραγούδι 'Magia';",
+        "options": ["Τάμτα", "Josephine", "Έλενα Παπαρίζου", "Marseaux"],
+        "answer": 1,
+        "info": "Η Josephine έχει πολλές dance επιτυχίες τα τελευταία χρόνια, όπως το 'Magia'."
+      },
+      {
+        "id": 133,
+        "question": "Ποιος ράπερ κυκλοφόρησε το 'Churchill Downs';",
+        "options": ["Jack Harlow", "Drake", "Kanye West", "Lil Baby"],
+        "answer": 0,
+        "info": "Ο Jack Harlow κυκλοφόρησε το 'Churchill Downs' με συνεργασία με τον Drake."
+      },
+      {
+        "id": 134,
+        "question": "Ποια καλλιτέχνιδα συνδύασε τη μόδα με τη μουσική στο άλμπουμ 'Planet Her';",
+        "options": [
+          "Nicki Minaj",
+          "Doja Cat",
+          "Megan Thee Stallion",
+          "Saweetie"
+        ],
+        "answer": 1,
+        "info": "Η Doja Cat έγινε σύμβολο pop culture με το 'Planet Her' το 2021."
+      },
+      {
+        "id": 135,
+        "question": "Ποια ελληνική μπάντα κυκλοφόρησε το 'Για Σένα';",
+        "options": ["ΜΕΛΙSSES", "Onirama", "Rec", "Alcatrash"],
+        "answer": 3,
+        "info": "Οι Alcatrash κυκλοφόρησαν το 'Για Σένα', μια ρομαντική pop επιτυχία."
+      },
+      {
+        "id": 136,
+        "question": "Ποια τραγουδίστρια κυκλοφόρησε το 'Positions';",
+        "options": ["Ariana Grande", "Beyoncé", "Lana Del Rey", "SZA"],
+        "answer": 0,
+        "info": "Η Ariana Grande κυκλοφόρησε το 'Positions' το 2020, ένα pop/r&b άλμπουμ."
+      },
+      {
+        "id": 137,
+        "question": "Ποιος κέρδισε τον τίτλο του Best New Artist στα Grammy 2023;",
+        "options": ["Latto", "Omar Apollo", "Samara Joy", "Anitta"],
+        "answer": 2,
+        "info": "Η Samara Joy κέρδισε τον τίτλο του Καλύτερου Πρωτοεμφανιζόμενου Καλλιτέχνη στα Grammy 2023."
+      },
+      {
+        "id": 138,
+        "question": "Ποιο τραγούδι της SZA έγινε τεράστια επιτυχία το 2023;",
+        "options": ["Good Days", "Kill Bill", "Shirt", "Nobody Gets Me"],
+        "answer": 1,
+        "info": "Το 'Kill Bill' της SZA έγινε viral το 2023, συνδυάζοντας r&b και storytelling."
+      },
+      {
+        "id": 139,
+        "question": "Ποια ελληνική καλλιτέχνιδα συνεργάστηκε με τον DJ Stephan στο 'Φωτιά';",
+        "options": ["Josephine", "Τάμτα", "Ελένη Φουρέιρα", "Marseaux"],
+        "answer": 0,
+        "info": "Η Josephine τραγούδησε το 'Φωτιά' με παραγωγή του DJ Stephan, σημειώνοντας μεγάλη επιτυχία."
+      },
+      {
+        "id": 140,
+        "question": "Ποιος τραγουδιστής συνεργάστηκε με τον Ed Sheeran στο 'Peru Remix';",
+        "options": ["Asake", "Fireboy DML", "Burna Boy", "Wizkid"],
+        "answer": 1,
+        "info": "Ο Fireboy DML συνεργάστηκε με τον Ed Sheeran στο 'Peru', δημιουργώντας παγκόσμια επιτυχία."
+      },
+      {
+        "id": 141,
+        "question": "Ποιο είναι το ντουέτο των Sam Smith & Normani που γνώρισε επιτυχία;",
+        "options": [
+          "Diamonds",
+          "Love Me More",
+          "Dancing With A Stranger",
+          "How Do You Sleep?"
+        ],
+        "answer": 2,
+        "info": "Το 'Dancing With A Stranger' έγινε παγκόσμιο hit με τις φωνές των Sam Smith & Normani."
+      },
+      {
+        "id": 142,
+        "question": "Ποιο είναι το όνομα του debut single της Tate McRae που έγινε viral;",
+        "options": [
+          "She's All I Wanna Be",
+          "you broke me first",
+          "Greedy",
+          "Feel Like Shit"
+        ],
+        "answer": 1,
+        "info": "Το 'you broke me first' έγινε η πρώτη μεγάλη επιτυχία της Tate McRae το 2020."
+      },
+      {
+        "id": 143,
+        "question": "Ποιος ράπερ κυκλοφόρησε το hit 'Way 2 Sexy';",
+        "options": ["Drake", "Future", "Young Thug", "Travis Scott"],
+        "answer": 0,
+        "info": "Ο Drake συνεργάστηκε με Future και Young Thug στο χιουμοριστικό και χορευτικό 'Way 2 Sexy'."
+      },
+      {
+        "id": 144,
+        "question": "Ποιος τραγουδιστής κυκλοφόρησε το 'Stay' μαζί με τον Justin Bieber;",
+        "options": ["The Kid LAROI", "Tate McRae", "Jaden Smith", "Lauv"],
+        "answer": 0,
+        "info": "'Stay' έγινε παγκόσμια επιτυχία με την υπογραφή των The Kid LAROI & Justin Bieber."
+      },
+      {
+        "id": 145,
+        "question": "Ποιος Έλληνας καλλιτέχνης τραγούδησε το 'Πες';",
+        "options": ["Toquel", "Mente Fuerte", "Good Job Nicky", "Saske"],
+        "answer": 2,
+        "info": "Ο Good Job Nicky έχει καθιερωθεί με την αισθητική και το ύφος του, όπως φαίνεται στο 'Πες'."
+      },
+      {
+        "id": 146,
+        "question": "Ποια Ελληνίδα pop καλλιτέχνιδα επέστρεψε με το τραγούδι 'Awake';",
+        "options": ["Τάμτα", "Κατερίνα Ντούσκα", "Ελένη Φουρέιρα", "Demy"],
+        "answer": 1,
+        "info": "Η Κατερίνα Ντούσκα κυκλοφόρησε το 'Awake', μετά την επιτυχία της στη Eurovision."
+      },
+      {
+        "id": 147,
+        "question": "Ποιο τραγούδι της Billie Eilish χρησιμοποιήθηκε σε soundtrack του James Bond;",
+        "options": [
+          "Your Power",
+          "Happier Than Ever",
+          "No Time To Die",
+          "Therefore I Am"
+        ],
+        "answer": 2,
+        "info": "'No Time To Die' ήταν το ομότιτλο τραγούδι του James Bond με φωνή της Billie Eilish."
+      },
+      {
+        "id": 148,
+        "question": "Ποιος καλλιτέχνης κυκλοφόρησε το ελληνικό hit 'Κόκκινα Φώτα';",
+        "options": ["Rack", "Trannos", "Saske", "Light"],
+        "answer": 2,
+        "info": "Ο Saske σημείωσε επιτυχία με το 'Κόκκινα Φώτα' στη νέα γενιά του ελληνικού trap."
+      },
+      {
+        "id": 149,
+        "question": "Ποια τραγουδίστρια κυκλοφόρησε το 'Special' το 2023;",
+        "options": ["Doja Cat", "Lizzo", "Beyoncé", "SZA"],
+        "answer": 1,
+        "info": "Η Lizzo μίλησε για την αυτοεκτίμηση και τη διαφορετικότητα στο 'Special'."
+      },
+      {
+        "id": 150,
+        "question": "Ποια ελληνική καλλιτέχνιδα κυκλοφόρησε το 'Λείπεις';",
+        "options": [
+          "Έλενα Παπαρίζου",
+          "Josephine",
+          "Eleni Foureira",
+          "Marseaux"
+        ],
+        "answer": 3,
+        "info": "Η Marseaux κυκλοφόρησε το 'Λείπεις', με έντονα συναισθηματικό και μοντέρνο ύφος."
       }
     ]
   }
